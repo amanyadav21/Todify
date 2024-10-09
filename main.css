@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: 'Work Sans', sans-serif;
 }
+#fevicon {
+    background-color: #fff;
+}
 
 body {
     /* #363532, rgb(88, 111, 112) */
