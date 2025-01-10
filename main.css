@@ -140,7 +140,8 @@ form {
     margin: 15px 0;
     padding: 0.8rem;
     width: 100%;
-    font-family: "Gruppo", sans-serif;
+    /* font-family: "Gruppo", sans-serif; */
+
 }
 
 form input {
